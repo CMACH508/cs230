@@ -14,7 +14,7 @@ Here are some suggestions for you.
 The input image should be scaled to 28*28, normalized to [0,1], and set to numpy float32 type.
 
 * Inference:  
-Predict the categories of the 10 images.
+Predict the classification of the 10 images.
 
 * For output:  
 The output is the classification result and corresponding confidence.
