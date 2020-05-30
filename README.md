@@ -8,12 +8,14 @@ We provide you with a trained Caffe model for recognizing handwritten numbers. Y
 
 ### note
 You can refer to four examples on Shengteng AI platform for inference.  
-Here are some suggestions for you.  
-* input data:  
+Here are some suggestions for you.
+
+* for input:  
 image size should be 28x28  
 normalize image data to [0,1] and set it to numpy float32 type
 
 * inference:  
-predict the categories of the 10 images  
-* output data:  
+predict the categories of the 10 images
+
+* for output:  
 classification result and confidence of the 10 images
