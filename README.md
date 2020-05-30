@@ -7,7 +7,7 @@ This project is for the machine learning course.
 We provide you with a trained Caffe model for recognizing handwritten numbers. You are required to transfer the Caffe model to the Huawei Shengteng AI platform, and test the model on the 10 test images we provide.
 
 ### note
------
+-
 You can refer to four examples on Shengteng AI platform for inference.  
 Here are some suggestions for you.
 
